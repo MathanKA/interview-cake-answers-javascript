@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "async":"0.9.x",
-    "crc":"3.2.x",
+    "crc":"3.8.0",
     "dsjslib":"0.6.x"
   },
   "repository": {
